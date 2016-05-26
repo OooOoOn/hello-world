@@ -11,4 +11,4 @@ I am hoping to become a Java Developer and my course application has been submit
 syntax rather enjoyable and discovered its similarities with Java. I'm sure there are other programming languages that will
 intrigue me in the future, but one step at a time my friend.
 
-To be continued...
+To be continued... shortly.
